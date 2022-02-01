@@ -1,19 +1,16 @@
-{ "entries" :
- [
-{"mobile": "1234",
- "sms": "left"
- },
- {"mobile": "5678",
- "sms": "right"
- },
- {"mobile": "9876",
- "sms": "left"
- },
- {"mobile": "7654",
- "sms": "left"
- },
- {"mobile": "3210",
- "sms": "right"
- }
-]
+{
+  "entries": [
+    {
+      "mobileno": 123,
+      "sms": "LEFT"
+    },
+    {
+      "mobileno": 456,
+      "sms": "RIGHT"
+    },
+    {
+      "mobileno": 789,
+      "sms": "LEFT"
+    }
+  ]
 }
