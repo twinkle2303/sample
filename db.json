@@ -1,4 +1,5 @@
-{ "entries" :{
+{ "entries" :
+ [
 {"mobile": "1234",
  "sms": "left"
  },
@@ -14,6 +15,5 @@
  {"mobile": "3210",
  "sms": "right"
  }
-}
- 
+]
 }
